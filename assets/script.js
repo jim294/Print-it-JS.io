@@ -65,7 +65,7 @@ arrowLeft.addEventListener("click", () => {
     if (j > 0) {
         j = j - 1
     } else {
-        j = slides.length - 1 // Aller à la dernière diapositive
+        j = slides.length - 1
     }
     base(j)
 })
