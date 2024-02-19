@@ -16,45 +16,19 @@ Mon site est visible sur : [PrintIt by Jim294](https://jim294.github.io/Print-it
 ## Livrables
 
 - **Le contexte de la mission**
-- **Les étapes par lesquelles vous êtes passé pour mener à bien votre mission **
-- **Présenterer les grands axes de votre travail**
+- **Comment les fléches ont été ajoutées dans le HTML**
+- **La mise en place des conditions pour avoir un défilement infini**
+- **Présenter les grands axes du travail**
 
 ## Technologies
 
-**Autorisés:** HTML / CSS / Sass
-
-**Recommandée:** HTML / Sass
-
-**Interdit:** Javascript / Frameworks CSS / Inline CSS
-
-## Notes
-
-**Polices :**
-- Logo & titres: Shrikhand
-- Texte: Roboto
-
-**Couleurs :**
-- Primaire: #9356DC
-- Secondaire: #FF79DA
-- Tertiaire: #99E2D0
-- Principal-background: #EAEAEA
-- Main-container: #F6F6F6
-- Hard-grey: #353535
-- New: #2FAF94
-
-**Contraintes :**
-- Approche mobile-first: oui
-- Maquette mobile : oui
-- Maquette desktop : à improviser
-- Validation W3C HTML : à passer, warning autorisés
-- Validation W3C CSS : à passer, warning autorisés
-- Compatibilité : Dernières versions de Chrome, Firefox & Safari
+**Autorisés:** HTML / CSS / Javascript
 
 ## Tester le projet
 
 Clonez le projet
 ```terminal
-git clone https://github.com/jim294/OhMyFood.io.git
+git clone https://github.com/jim294/Print-it-JS.io.git
 ```
 Installez les dépendances
 ```terminal
@@ -63,8 +37,4 @@ npm install
 Et lancez le serveur !
 ```terminal
 npm start
-```
-Pour avoir une actualisation Sass Permanente n'oubliez pas
-```terminal
-npm run sass-actualisation
 ```
