@@ -1,0 +1,14 @@
+{
+  "name": "projet-5-printit",
+  "version": "1.0.0",
+  "description": "projet 5 OpenClassroom",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server"
+  },
+  "author": "Jm",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
